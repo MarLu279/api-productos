@@ -4,7 +4,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
-API RESTful para gestionar productos y reseñas, desarrollada con Spring Boot como parte de mi aprendizaje en desarrollo backend.
+API RESTful para gestionar productos y reseñas, desarrollada con Spring Boot como parte del desarrollo backend.
 
 ## 📦 Funcionalidades Principales
 - ✅ CRUD completo de productos y reseñas
